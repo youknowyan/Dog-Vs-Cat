@@ -1,8 +1,6 @@
 This is the final individual project of Udacity Nanodegree: Machine Learning Engineer(Advanced). The name of this project is “Cat Vs dog” and its goal is to use deep learning (Convolutional Neural Network) to build and optimize a prediction model which can identify if a photo is about dogs or cats.
 
-The files included are preprocessing.ipynb | pred.ipynb | result.csv | README. pdf | preprocessing.html | pred.html
-
-The actual project files are “ preprocessing.ipynb”and “ pred.ipynb”. “result.csv” is my final predict outcome of testing set.“ preprocessing.html”and“ pred.html” are HTML version of ipynb file which are easier for you to read.
+The files included are preprocessing.ipynb | pred.ipynb | result.csv
 
 This project requires Keras，TensorFlow，Python 3，Jupyter notebook. 
 
